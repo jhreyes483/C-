@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int Promedio,a,n,suma,b;
+main(){
+	cout<<"Cuantas notas desea ingrear?";
+	cin>>b;
+	for(a=1;a<=b;a++){
+		cout<<"ingrese nota "<<a<<" :";
+		cin>>n;
+		suma=suma+n;
+		cout<<suma<<endl;
+	}
+	
+	Promedio = suma/b;
+	cout<<Promedio;
+	
+	
+	return 0;
+}

@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int a;
+main(){
+	
+	
+
+a=3+5; 
+cout<<"El resultado de la suma 3 + 5 es "<<a;
+
+
+
+	
+	
+	return 0;
+}

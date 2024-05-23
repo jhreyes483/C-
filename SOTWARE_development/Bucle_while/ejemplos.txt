@@ -1,0 +1,36 @@
+
+
+char nom[10] // variables de texto
+
+cin.getline(nom,10); // reconoce valores como simbolos y espacios
+
+-----------------------------------------------------------------------
+
+decimales
+iomanip
+
+setprecixion(3)
+
+
+--------------------------------------------------
+
+tildes
+locale.h
+
+setlocale(LC_CTYPE, "spanish")
+
+---------------------------------------
+
+se declara valor de varible inical antes
+a=1
+
+
+
+while(a<=10){
+
+el incremento debe de ir aca  ej 4++
+
+
+}
+
+------------------------------------------------------

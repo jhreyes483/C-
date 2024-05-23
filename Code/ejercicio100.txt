@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int a,b =12,c=8;
+main(){
+	b=b-5;
+	c++;
+	
+
+a=b+c; 
+cout<<"El resultado de la suma "<<b<<"+"<<c<<" es "<<a;
+
+	
+	return 0;

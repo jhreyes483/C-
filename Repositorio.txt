@@ -1,0 +1,2 @@
+git remote add origin https://github.com/jhreyes483/BK_C.git
+git push -u origin master

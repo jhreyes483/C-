@@ -1,0 +1,15 @@
+clude <iostream>
+using namespace std;
+int a,n,suma;
+main(){
+	for(a=1;a<15;a++){
+		cout<<"valor del for va en "<<a<<endl;
+		cin>>n;
+		suma=suma+n;
+		cout<<"el valor de la varible suma va en "<<suma<<endl;
+	
+	}
+	
+
+	return 0;
+}

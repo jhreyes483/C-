@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+int a,b,c;
+
+main(){
+cout<<"Numeros impares de 201 a 499"<<endl;
+
+for(a=1;a<=10;a++){
+	b=9;
+	c=a*b;
+	cout<<b<<" * "<<a<<"="<<c<<endl;
+
+}
+
+
+	
+	return 0;
+}

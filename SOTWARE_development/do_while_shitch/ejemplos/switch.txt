@@ -1,0 +1,30 @@
+#include <iostream>
+#include <conio.h>
+using namespace std;
+//declare variables
+int op,num;
+main(){
+	cout<<"seleccione :"<<endl<<"1 ingrese numero "<<endl<<"2. salir ";
+	cin>>op;
+	
+	switch(op){
+		case 1:
+		cout<<"ingrese el numero :";
+		cin>>num;
+		main();
+		
+		break;
+		case 2:
+			cout<<"adios";
+			exit(0);
+		
+		break;
+		default:
+			
+		cout<<"opcion incrreta! ";
+		main();
+		break;
+	}
+
+	return 0;
+}

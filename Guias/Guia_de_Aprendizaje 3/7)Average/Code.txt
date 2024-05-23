@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+float a1,a2,a3,a4,a5,p,t;
+
+
+main(){
+
+
+//reqest data
+cout<<"ingrese primer numero  ";
+cin>>a1;
+cout<<"ingrese segundo numero  ";
+cin>>a2;
+cout<<"ingrese tercer numero  ";
+cin>>a3;
+cout<<"ingrese cuarto numero  ";
+cin>>a4;
+cout<<"ingrese quinto numero  ";
+cin>>a5;
+
+//operation
+p=(a1+a2+a3+a4+a5)/5;
+
+
+ //prin on screen
+cout<<"El promedio es " <<p;
+	
+	return 0;
+}

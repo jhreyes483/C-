@@ -1,0 +1,25 @@
+hasta =
+
+
+
+while(condicon){}do{} 
+
+-------------------------------
+
+ej
+
+
+switch(o)
+       
+
+case
+instrucciones;
+break
+
+
+
+
+
+-break
+-case2
+-break

@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+int a,b,c,d;
+
+main(){
+cout<<"La tabla del ?"<<endl;
+cin>>b;
+cout<<"hasta:";
+cin>>d;
+
+
+for(a=1;a<=d;a++){
+	b=9;
+	c=a*b;
+	cout<<b<<" * "<<a<<"="<<c<<endl;
+
+}
+
+
+	
+	return 0;
+}
